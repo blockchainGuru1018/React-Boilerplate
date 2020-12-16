@@ -128,7 +128,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://mxstbr.com"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-python-logo.png" width="80px;" alt="Max Stoiber"/><br /><sub><b>KangDo96</b></sub></a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/KangDo96"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-python-logo.png" width="80px;" alt="Max Stoiber"/><br /><sub><b>KangDo96</b></sub></a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
